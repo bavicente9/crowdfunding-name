@@ -1,6 +1,7 @@
 
 # Crowdfunding page
-A demo page for a crowdfunding page using responsive design.
+A demo page for a crowdfunding page using responsive design. 
+Challenge from: https://www.frontendmentor.io
 
 Users can:
 
